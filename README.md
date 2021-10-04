@@ -1,0 +1,4 @@
+- 👋 Hi, I’m J. Connor Harrington @Onymbit
+- 👀 I’m interested in space, computers, and video games.
+- 🌱 I’m currently learning Python and TensorFlow
+- 📫 How to reach me: jhar199@lsu.edu or jconnorharrington@gmail.com
